@@ -7,7 +7,7 @@ My IMG Draw
 .kra                    ->         Krita (无文件/No file)             https://krita.org/zh-cn/</br>
 .psd                    ->         Photoshop (无文件/No file)         https://www.adobe.com/cn/creativecloud/roc/business.html</br>
 .xcf/.jxcf              ->         GIMP (无文件/No file)              https://www.gimp.org/</br>
-.jsd                    ->         js.designer (无文件/No file)       https://js.design/home</br>
+.jsd                    ->         js.design (无文件/No file)       https://js.design/home</br>
 .fig                    ->         Figma (无文件/No file)             https://www.figma.com</br>
 </br>
 </br>
